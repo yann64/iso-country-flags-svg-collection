@@ -2,3 +2,4 @@ build/*/??.svg
 build/*/??.png
 build/png-*
 build/xplanet
+build/svg*/*.svg
